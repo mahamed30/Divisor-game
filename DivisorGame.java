@@ -1,6 +1,4 @@
-// Mohammed Hamed, cs-200-3, Summer 2016.
-// cs-200-3, Summer 2016.
-// Assignment 5:  Divisor Game.
+// Divisor Game
 //
 // This program officiates the Divisor Game between two players, which is played
 // as follows:  an initial positive integer n is picked.  All factors of n 
